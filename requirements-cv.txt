@@ -1,0 +1,3 @@
+# For generate_cv.py (CV DOCX + PDF from portfolio)
+python-docx>=0.8.11
+reportlab>=4.0.0
